@@ -1,0 +1,2 @@
+D:/opengl/code/RayCode/04_Hello_MultiplyLight/build/CMakeFiles/edit_cache.dir
+D:/opengl/code/RayCode/04_Hello_MultiplyLight/build/CMakeFiles/rebuild_cache.dir
